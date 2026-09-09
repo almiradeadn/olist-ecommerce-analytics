@@ -93,18 +93,7 @@ Dashboard terdiri dari enam halaman analisis:
 
 ## Project Files
 
-```text
-olist-ecommerce-analytics/
-├── README.md
-├── dashboard/
-│   └── Power BI dashboard
-├── documentation/
-│   └── Project Documentation
-├── screenshots/
-│   └── Dashboard screenshots
-└── sql/
-    ├── 01_import_validation.sql
-    ├── 02_data_quality_check.sql
-    ├── 03_data_cleaning.sql
-    ├── 04_eda.sql
-    └── 05_business_analysis.sql
+- [Dashboard](dashboard/) — Power BI dashboard dan informasi akses.
+- [Documentation](documentation/) — dokumentasi lengkap project.
+- [Screenshots](screenshots/) — preview enam halaman dashboard.
+- [SQL Scripts](sql/) — script validation, cleaning, EDA, dan business analysis.
