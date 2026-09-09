@@ -54,27 +54,27 @@ Dashboard terdiri dari enam halaman analisis:
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](screenshots/01_executive_overview.jpg)
 
 ### 2. Sales & Product
 
-![Sales & Product](screenshots/02_sales_product.png)
+![Sales & Product](screenshots/02_sales_product.jpg)
 
 ### 3. Customer Performance
 
-![Customer Performance](screenshots/03_customer_performance.png)
+![Customer Performance](screenshots/03_customer_performance.jpg)
 
 ### 4. Delivery & Operations
 
-![Delivery & Operations](screenshots/04_delivery_operations.png)
+![Delivery & Operations](screenshots/04_delivery_operations.jpg)
 
 ### 5. Seller Performance
 
-![Seller Performance](screenshots/05_seller_performance.png)
+![Seller Performance](screenshots/05_seller_performance.jpg)
 
 ### 6. Review & Customer Satisfaction
 
-![Review & Customer Satisfaction](screenshots/06_review_satisfaction.png)
+![Review & Customer Satisfaction](screenshots/06_review_satisfaction.jpg)
 
 ## Key Insights
 
