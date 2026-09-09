@@ -93,7 +93,16 @@ Dashboard terdiri dari enam halaman analisis:
 
 ## Project Files
 
-- **`sql/`** — SQL scripts untuk data validation, data quality checks, dan data cleaning.
-- **`documentation/`** — project documentation, metric definitions, dan assumptions.
-- **`dashboard/`** — Power BI dashboard file.
-- **`screenshots/`** — preview dari enam halaman dashboard.
+```text
+olist-ecommerce-analytics/
+├── README.md
+├── dashboard/
+│   └── Power BI dashboard
+├── documentation/
+│   └── Project Documentation
+├── screenshots/
+│   └── Dashboard screenshots
+└── sql/
+    ├── 01_import_validation.sql
+    ├── 02_data_quality_check.sql
+    └── 03_data_cleaning.sql
