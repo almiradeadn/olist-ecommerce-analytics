@@ -80,7 +80,6 @@ Dashboard terdiri dari enam halaman analisis:
 
 - Product Sales menunjukkan konsentrasi kontribusi pada sebagian product categories dan seller.
 - Delivery performance menunjukkan mayoritas delivered orders berada pada status On-Time, namun Late deliveries tetap menjadi area yang perlu diperhatikan.
-- Customer purchasing behavior menunjukkan adanya perbedaan kontribusi dan aktivitas antar customer.
 - Customer satisfaction menunjukkan variasi berdasarkan customer state dan delivery performance.
 - Seller performance menunjukkan perbedaan tingkat activity dan Product Sales contribution antar seller.
 
