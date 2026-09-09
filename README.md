@@ -105,4 +105,6 @@ olist-ecommerce-analytics/
 └── sql/
     ├── 01_import_validation.sql
     ├── 02_data_quality_check.sql
-    └── 03_data_cleaning.sql
+    ├── 03_data_cleaning.sql
+    ├── 04_eda.sql
+    └── 05_business_analysis.sql
