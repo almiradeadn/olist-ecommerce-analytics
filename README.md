@@ -78,10 +78,11 @@ Dashboard terdiri dari enam halaman analisis:
 
 ## Key Insights
 
-- Sebagian besar delivered orders diklasifikasikan sebagai On-Time, sementara sebagian yang lebih kecil diklasifikasikan sebagai Late.
-- Product Sales terkonsentrasi pada sebagian seller.
-- Customer review outcomes menunjukkan perbedaan antara On-Time dan Late deliveries.
-- Product Sales dan Payment Value merupakan analytical concepts yang berbeda dan tidak boleh dicampurkan tanpa business definition yang eksplisit.
+- Product Sales menunjukkan konsentrasi kontribusi pada sebagian product categories dan seller.
+- Delivery performance menunjukkan mayoritas delivered orders berada pada status On-Time, namun Late deliveries tetap menjadi area yang perlu diperhatikan.
+- Customer purchasing behavior menunjukkan adanya perbedaan kontribusi dan aktivitas antar customer.
+- Customer satisfaction menunjukkan variasi berdasarkan customer state dan delivery performance.
+- Seller performance menunjukkan perbedaan tingkat activity dan Product Sales contribution antar seller.
 
 ## Business Recommendations
 
