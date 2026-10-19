@@ -87,7 +87,7 @@ Ulasan dan kepuasan pelanggan.
 ## Business Recommendations
 
 - **Logistik:** Prioritaskan wilayah dengan late rate tinggi (AL, MA) dan volume terlambat terbesar (RJ), serta siapkan kapasitas sebelum puncak musiman, karena late rate naik saat penjualan memuncak (Nov 2017).
-- **Retensi:** Rancang program pembelian ulang (voucher atau email follow-up) untuk pelanggan dengan review 4-5. Sebagai gambaran dampak, setiap kenaikan 1 poin persentase repeat rate (dari 3% saat ini) setara dengan sekitar 930 pelanggan yang kembali membeli. Pantau repeat rate setiap bulan.
+- **Retensi:** Rancang program pembelian ulang (voucher atau email follow-up) untuk pelanggan dengan review 4-5. Sebagai gambaran dampak, setiap kenaikan 1 poin persentase repeat rate (dari 3% saat ini) setara dengan sekitar 930 (1% × 93.357) pelanggan yang kembali membeli. Pantau repeat rate setiap bulan.
 - **Seller:** Beri eksposur kepada seller berating tinggi, yang berbeda dari seller dengan penjualan tertinggi. Tambahkan seller di luar SP untuk memperpendek jarak kirim.
 - **Kategori:** Telusuri ulasan negatif Bed, Bath, Table untuk mencari penyebab rating 4,00.
 
@@ -99,5 +99,5 @@ Dashboard ini adalah alat analisis deskriptif dan diagnostik berbasis data histo
 
 - [Dashboard](dashboard/): Power BI dashboard dan informasi akses
 - [Documentation](documentation/): dokumentasi lengkap proyek
-- [Screenshots](screenshot/): preview enam halaman dashboard
+- [Screenshot](screenshot/): preview enam halaman dashboard
 - [SQL Scripts](sql/): script validation, cleaning, EDA, dan business analysis
